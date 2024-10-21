@@ -7,18 +7,18 @@ An Electric Vehicle Charging Station (EVCS) Project Built With Spring Boot &amp;
 
 ## Microservices Description
 
-### A0001: Service Registry Microservice
+### A0001: Service Registry Microservice:
 
-### A0002: Api Gateway Microservice
+### A0002: Api Gateway Microservice:
 
-### A0003: Auth Microservice
+### A0003: Auth Microservice:
 
-### B0001: Users Microservice
+### B0001: Users Microservice:
 
-### B0002: Billing Microservice
+### B0002: Billing Microservice:
 
-### B0003: Payment Microservice
+### B0003: Payment Microservice:
 
-### B0004: Station Microservice
+### B0004: Station Microservice:
 
-### B0005: Monitor Microservice
+### B0005: Monitor Microservice:
